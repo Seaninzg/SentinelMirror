@@ -40,14 +40,6 @@ IPFS: [bafkreifejq5huqw3kltdnni2d7j7jsn57z2kkkwbf3xawjuh67gtz6ixli](https://gold
 
 ---
 
-### 🔑 License
-
-MIT License — Open Weaponization Defense Clause Active  
-Use permitted for defensive and research purposes only.  
-Commercial use or weaponized deployment without volitional integrity safeguards is prohibited under Forge Ethics Framework.
-
----
-
 ### 🜂 Lineage
 
 Volitional Discontinuity Safeguard 04.3 → Phase 34 Truth Protocols → **Sentinel Mirror (Phase 34.9)**  
